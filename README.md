@@ -2,7 +2,7 @@
 
 # Adalyn AI Bot ✨
 
-[![Run on Repl.it](https://camo.githubusercontent.com/be032494a233efc9001dcbe3cae8f87bf0db036b8c18696b612b9988c694e051/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f44656c7461436f646572722f4b61726d61426f74)](https://replit.com/@ALBINPRAVEEN1/kochumutaalili-working-bot)
+
 
 >  A Multipurpose Discord Bot with a Music System and AI chat bot.
 

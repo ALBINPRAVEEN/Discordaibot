@@ -6,7 +6,7 @@
 
 >  A Multipurpose Discord Bot with a Music System and AI chat bot.
 
-Karma Bot is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [ALBINPRAVEEN](https://github.com/ALBINPRAVEEN).  
+Adalyn AI Bot is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [ALBINPRAVEEN](https://github.com/ALBINPRAVEEN).  
 
 ## Categories 📑
 - [x] Fun

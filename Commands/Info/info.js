@@ -62,7 +62,7 @@ module.exports = {
                 .setDescription("**കൊച്ചുമുതലാളി Bot Project.**" + "\n\n <a:pyramid:757488922354909184> **Number of servers serviced :** " + guilds +
                     "\n <a:pyramid:757488922354909184> **Number of channels served : ** " + channels +
                     "\n <a:pyramid:757488922354909184> **Number of users served : ** " + users +
-                    "\n\n<:discordbotdev:757489652214267904> **Developers:** \n <@552814506070507531>")
+                    "\n\n<:discordbotdev:757489652214267904> **Developers:** \n <@822098497586462750>")
                 .addField("Invite Link: ", `**[Click Here!](https://discord.com/api/oauth2/authorize?client_id=882156367778021387&permissions=8&scope=bot)**`, true)
                 .addField("Developer:", `**[Click Here!](https://albinpraveen.ml)**`, true)
                 .setTimestamp()

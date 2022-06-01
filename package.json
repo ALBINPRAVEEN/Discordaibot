@@ -55,7 +55,7 @@
     "reddit.images": "^1.0.2",
     "relevant-urban": "^2.0.0",
     "request-promise-native": "^1.0.9",
-    "sharp": "^0.28.0",
+    "sharp": "^0.30.5",
     "srod-v2": "^1.0.2",
     "superagent": "^6.1.0",
     "to-zalgo": "^1.0.1",
